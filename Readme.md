@@ -190,4 +190,3 @@ class BatchExample extends Component {
 
 
 
-
