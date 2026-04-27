@@ -151,4 +151,3 @@ class BatchExample extends Component {
 
 
 
-
